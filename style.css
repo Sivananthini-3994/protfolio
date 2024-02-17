@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>
+            Protfolio 
+        </title>
+        <link rel="stylesheet" href="stylecv.css">
+        <script src="scriptcv.js"></script>
+    </head>
+    <body>
+        <div class="navbar">
+            <h1>Protfo<span>lio</span></h1>
+            <ul>
+                <li><a href="#home">HOME|</a></li>
+                <li><a href="#about">ABOUT ME|</a></li>
+                <li><a href="#project">PROJECT|</a></li>
+                <li><a href="#contact">CONTACT</a></li>
+            </ul>
+            <div class="bx bx-moon" id="darkMode-icon"></div>
+            <div class="bx bx-menu" id="menu-icon"></div>
+        
+        </div>
+        <div class="homepage">
+            <h1><a id="home">Ho<span>me</span></a></h1>
+             <img src="women.jpg" height="500px" width="500px">
+             <center><p>Hi There.<br> I'm<br> Sivananthini.</p><br><h4>Front End Developer Who Focuses On Writing Clean Elegant And Efficient Code.</h4><br>
+            <button>Contact Me</button></center>
+        </div>
+        <div class="about">
+           <h1><a id="about">About<span>Me</span></a></h1>
+            <img src="logoimg.png" class="rounded-circle" width="600" height="440" >
+            <h2><center>I'm Sivananthini,<br>a web developer passionate about creating clean,<br>user-friendly websites,<br>with a focus on simplicity and functionality.<br>Currently I'm studying in MCA department of Madurai Kamara University.<br>And I'm learning how to create <br>a client attractive websites.</center></h2>
+            <a href="#" class="btn">Read More</a>
+  
+        </div>
+         <div class="project">
+            <h1><a id="project">Pro<span>jects</span></a></h1>
+              
+         </div>
+    </body>
+</html>
